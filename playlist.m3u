@@ -276,13 +276,6 @@ http://45.5.117.182:8000/play/a0fm/index.m3u8
 http://190.61.40.189:45000/play/a03v
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R76X44d/tnt.jpg" group-title="Premium | Latino",TNT (LATAM)
-http://190.149.66.90:4000/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT2whpcS/tnt-series.jpg" group-title="Premium | Latino",TNT | Series | Opción 2 (LATAM)
-http://167.250.39.130:8000/play/tntseries
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT2whpcS/tnt-series.jpg" group-title="Premium | Latino",TNT | Series | Opción 3 (LATAM)
-http://181.78.8.90:16123/play/a067
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT2whpcS/tnt-series.jpg" group-title="Premium | Latino",TNT | Series | Opción 4 (LATAM)
 http://190.61.43.117:45000/play/a01j
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXMd3BPN/tntn.jpg" group-title="Premium | Latino",TNT | Novelas (LATAM)
