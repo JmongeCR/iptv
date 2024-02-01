@@ -2720,7 +2720,8 @@ https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqxGY94Q/tvsurcanal9.jpg" group-title="Costa Rica 🇨🇷",TV Sur | Canal 9 (CR)
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Costa Rica 🇨🇷" | Tigo Sports (CR)
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj8R9Nph/tigosports.jpg" group-title="Costa Rica 🇨🇷",Tigo Sports | Tigo Sports (CR)
 http://167.250.222.35:16000/play/a091/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2zwzFdF/telesurpz.jpg" group-title="Costa Rica 🇨🇷",Tv Sur | PZ (CR)
