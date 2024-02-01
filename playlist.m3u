@@ -275,7 +275,7 @@ http://45.5.117.182:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15yrPJ8C/isat.jpg" group-title="Premium | Latino",I-Sat (LATAM)
 http://190.61.40.189:45000/play/a03v
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R76X44d/tnt.jpg" group-title="Premium | Latino",TNT (LATAM)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT2whpcS/tnt-series.jpg" group-title="Premium | Latino",TNT | Series (LATAM)
 http://190.61.43.117:45000/play/a01j
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXMd3BPN/tntn.jpg" group-title="Premium | Latino",TNT | Novelas (LATAM)
